@@ -12,5 +12,6 @@ h1{
 }
 body{
 
-    font-size: large;
+    font-size: large;\
+    margin:width: 20px;
 }
