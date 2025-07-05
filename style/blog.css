@@ -1,17 +1,21 @@
 p{
     background-color:tomato;
-    padding: 15px;
+    padding: 100px;
     font-weight:800;
-
+border-start-end-radius:
 }
 h1{
     font-variant-caps: all-petite-caps;
 }
 h1{
     color: chocolate;
+    background-color: rgb(59, 22, 9);
 }
 body{
 
-    font-size: large;\
-    margin: width 200px;;
+    font-size: large;
+    margin: width 200px;
+}
+body{
+    
 }
